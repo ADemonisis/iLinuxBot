@@ -1,0 +1,9 @@
+Usage :
+
+client.out -p 7400 localhost/ip_of_server
+
+Special Commands :
+
+go   : To release all the clients
+
+quit : To terminate server 
